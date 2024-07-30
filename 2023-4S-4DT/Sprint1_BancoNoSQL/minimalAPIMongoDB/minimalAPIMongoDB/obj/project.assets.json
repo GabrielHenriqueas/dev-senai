@@ -1229,11 +1229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\42351028856\\Desktop\\MinimalAPIMongoDB\\minimalAPIMongoDB\\minimalAPIMongoDB\\minimalAPIMongoDB.csproj",
+      "projectUniqueName": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2023-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\minimalAPIMongoDB.csproj",
       "projectName": "minimalAPIMongoDB",
-      "projectPath": "C:\\Users\\42351028856\\Desktop\\MinimalAPIMongoDB\\minimalAPIMongoDB\\minimalAPIMongoDB\\minimalAPIMongoDB.csproj",
+      "projectPath": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2023-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\minimalAPIMongoDB.csproj",
       "packagesPath": "C:\\Users\\42351028856\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\42351028856\\Desktop\\MinimalAPIMongoDB\\minimalAPIMongoDB\\minimalAPIMongoDB\\obj\\",
+      "outputPath": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2023-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\42351028856\\AppData\\Roaming\\NuGet\\NuGet.Config",
