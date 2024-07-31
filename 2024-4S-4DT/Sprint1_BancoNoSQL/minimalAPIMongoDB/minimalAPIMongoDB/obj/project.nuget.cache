@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQZVApnEO3ZoVPtLz3RV5lFR6bj23fs/W/C5K27lESkrNbiceOMgXa7d30xBBtpAmsJ0eY/KlqcJWUPedg1+Eg==",
+  "dgSpecHash": "5dqoaYHDV3ab8Ft9yw1DrK6gjh0hiXpsDLvo8eJsBtvZASb0Q/LntExziD5ImXUk6qB1lbDQp5Qr/bYJ15xOsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2023-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\minimalAPIMongoDB.csproj",
+  "projectFilePath": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\minimalAPIMongoDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\42351028856\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\42351028856\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

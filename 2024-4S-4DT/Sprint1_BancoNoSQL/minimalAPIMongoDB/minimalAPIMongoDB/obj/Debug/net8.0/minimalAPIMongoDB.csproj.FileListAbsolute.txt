@@ -89,3 +89,14 @@ C:\Users\42351028856\Desktop\MinimalAPIMongoDB\minimalAPIMongoDB\minimalAPIMongo
 C:\Users\42351028856\Desktop\MinimalAPIMongoDB\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.pdb
 C:\Users\42351028856\Desktop\MinimalAPIMongoDB\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.genruntimeconfig.cache
 C:\Users\42351028856\Desktop\MinimalAPIMongoDB\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\ref\minimalAPIMongoDB.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint1_BancoNoSQL\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint1_BancoNoSQL\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint1_BancoNoSQL\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint1_BancoNoSQL\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint1_BancoNoSQL\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint1_BancoNoSQL\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint1_BancoNoSQL\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint1_BancoNoSQL\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.sourcelink.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint1_BancoNoSQL\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint1_BancoNoSQL\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\refint\minimalAPIMongoDB.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint1_BancoNoSQL\minimalAPIMongoDB\minimalAPIMongoDB\obj\Debug\net8.0\minimalAPIMongoDB.pdb
