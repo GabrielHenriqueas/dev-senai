@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\bin\Debug\net8.0\ConversorTemperaturas.exe
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\bin\Debug\net8.0\ConversorTemperaturas.deps.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\bin\Debug\net8.0\ConversorTemperaturas.runtimeconfig.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\bin\Debug\net8.0\ConversorTemperaturas.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\bin\Debug\net8.0\ConversorTemperaturas.pdb
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\obj\Debug\net8.0\ConversorTemperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\obj\Debug\net8.0\ConversorTemperaturas.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\obj\Debug\net8.0\ConversorTemperaturas.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\obj\Debug\net8.0\ConversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\obj\Debug\net8.0\ConversorTemperaturas.sourcelink.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\obj\Debug\net8.0\ConversorTemperaturas.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\obj\Debug\net8.0\refint\ConversorTemperaturas.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\obj\Debug\net8.0\ConversorTemperaturas.pdb
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\obj\Debug\net8.0\ConversorTemperaturas.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint2_TestesUnitarios(Backend)\CoversorTemperatura\ConversorTemperaturas\obj\Debug\net8.0\ref\ConversorTemperaturas.dll
