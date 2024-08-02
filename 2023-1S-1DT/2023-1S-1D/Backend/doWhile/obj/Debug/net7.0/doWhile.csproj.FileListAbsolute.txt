@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\bin\Debug\net7.0\doWhile.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\bin\Debug\net7.0\doWhile.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\bin\Debug\net7.0\doWhile.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\bin\Debug\net7.0\doWhile.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\bin\Debug\net7.0\doWhile.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\obj\Debug\net7.0\doWhile.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\obj\Debug\net7.0\doWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\obj\Debug\net7.0\doWhile.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\obj\Debug\net7.0\doWhile.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\obj\Debug\net7.0\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\obj\Debug\net7.0\doWhile.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\obj\Debug\net7.0\refint\doWhile.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\obj\Debug\net7.0\doWhile.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\obj\Debug\net7.0\doWhile.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\doWhile\obj\Debug\net7.0\ref\doWhile.dll

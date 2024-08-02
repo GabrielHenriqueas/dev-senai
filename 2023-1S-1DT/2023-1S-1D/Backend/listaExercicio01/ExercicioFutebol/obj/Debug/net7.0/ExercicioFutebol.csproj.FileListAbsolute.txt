@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\bin\Debug\net7.0\ExercicioFutebol.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\bin\Debug\net7.0\ExercicioFutebol.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\bin\Debug\net7.0\ExercicioFutebol.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\bin\Debug\net7.0\ExercicioFutebol.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\bin\Debug\net7.0\ExercicioFutebol.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\obj\Debug\net7.0\ExercicioFutebol.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\obj\Debug\net7.0\ExercicioFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\obj\Debug\net7.0\ExercicioFutebol.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\obj\Debug\net7.0\ExercicioFutebol.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\obj\Debug\net7.0\ExercicioFutebol.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\obj\Debug\net7.0\ExercicioFutebol.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\obj\Debug\net7.0\refint\ExercicioFutebol.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\obj\Debug\net7.0\ExercicioFutebol.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\obj\Debug\net7.0\ExercicioFutebol.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioFutebol\obj\Debug\net7.0\ref\ExercicioFutebol.dll

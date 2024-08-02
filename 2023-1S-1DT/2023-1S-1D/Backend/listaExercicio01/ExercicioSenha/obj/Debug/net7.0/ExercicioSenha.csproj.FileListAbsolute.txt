@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\bin\Debug\net7.0\ExercicioSenha.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\bin\Debug\net7.0\ExercicioSenha.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\bin\Debug\net7.0\ExercicioSenha.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\bin\Debug\net7.0\ExercicioSenha.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\bin\Debug\net7.0\ExercicioSenha.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\obj\Debug\net7.0\ExercicioSenha.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\obj\Debug\net7.0\ExercicioSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\obj\Debug\net7.0\ExercicioSenha.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\obj\Debug\net7.0\ExercicioSenha.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\obj\Debug\net7.0\ExercicioSenha.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\obj\Debug\net7.0\ExercicioSenha.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\obj\Debug\net7.0\refint\ExercicioSenha.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\obj\Debug\net7.0\ExercicioSenha.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\obj\Debug\net7.0\ExercicioSenha.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioSenha\obj\Debug\net7.0\ref\ExercicioSenha.dll

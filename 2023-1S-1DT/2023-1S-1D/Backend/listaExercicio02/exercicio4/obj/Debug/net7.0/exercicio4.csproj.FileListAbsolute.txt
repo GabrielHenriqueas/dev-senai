@@ -1,0 +1,15 @@
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\bin\Debug\net7.0\exercicio4.exe
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\bin\Debug\net7.0\exercicio4.deps.json
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\bin\Debug\net7.0\exercicio4.runtimeconfig.json
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\bin\Debug\net7.0\exercicio4.dll
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\bin\Debug\net7.0\exercicio4.pdb
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\obj\Debug\net7.0\exercicio4.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\obj\Debug\net7.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\obj\Debug\net7.0\exercicio4.AssemblyInfoInputs.cache
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\obj\Debug\net7.0\exercicio4.AssemblyInfo.cs
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\obj\Debug\net7.0\exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\obj\Debug\net7.0\exercicio4.dll
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\obj\Debug\net7.0\refint\exercicio4.dll
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\obj\Debug\net7.0\exercicio4.pdb
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\obj\Debug\net7.0\exercicio4.genruntimeconfig.cache
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio02\exercicio4\obj\Debug\net7.0\ref\exercicio4.dll

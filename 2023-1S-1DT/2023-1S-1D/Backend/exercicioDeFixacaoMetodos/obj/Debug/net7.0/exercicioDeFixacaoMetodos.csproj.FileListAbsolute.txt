@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\bin\Debug\net7.0\exercicioDeFixacaoMetodos.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\bin\Debug\net7.0\exercicioDeFixacaoMetodos.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\bin\Debug\net7.0\exercicioDeFixacaoMetodos.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\bin\Debug\net7.0\exercicioDeFixacaoMetodos.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\bin\Debug\net7.0\exercicioDeFixacaoMetodos.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\obj\Debug\net7.0\exercicioDeFixacaoMetodos.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\obj\Debug\net7.0\exercicioDeFixacaoMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\obj\Debug\net7.0\exercicioDeFixacaoMetodos.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\obj\Debug\net7.0\exercicioDeFixacaoMetodos.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\obj\Debug\net7.0\exercicioDeFixacaoMetodos.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\obj\Debug\net7.0\exercicioDeFixacaoMetodos.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\obj\Debug\net7.0\refint\exercicioDeFixacaoMetodos.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\obj\Debug\net7.0\exercicioDeFixacaoMetodos.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\obj\Debug\net7.0\exercicioDeFixacaoMetodos.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioDeFixacaoMetodos\obj\Debug\net7.0\ref\exercicioDeFixacaoMetodos.dll

@@ -1,0 +1,33 @@
+#title {
+    display: flex;
+    justify-content: center;
+    color: grey;
+    background-color: magenta;
+}
+
+body {
+    background-color: yellow;
+
+}
+
+p { color: rgb(253, 0, 224);
+
+}
+
+#segundo {
+    background-color: rgba(255, 0, 0, 0.856);
+    color: brown;
+    border: 2px solid black;
+    border-radius: 10PX;
+    font-size: 50px;
+
+}
+
+.diferente {
+    background-color: rgba(0, 17, 255, 0.856);
+    color: rgb(76, 255, 5);
+    border: 2px solid black;
+    border-radius: 10PX;
+    font-size: 50px;
+
+}

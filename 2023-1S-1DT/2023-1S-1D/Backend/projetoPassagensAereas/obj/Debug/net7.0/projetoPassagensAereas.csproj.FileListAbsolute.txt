@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\bin\Debug\net7.0\projetoPassagensAereas.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\bin\Debug\net7.0\projetoPassagensAereas.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\bin\Debug\net7.0\projetoPassagensAereas.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\bin\Debug\net7.0\projetoPassagensAereas.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\bin\Debug\net7.0\projetoPassagensAereas.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\obj\Debug\net7.0\projetoPassagensAereas.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\obj\Debug\net7.0\projetoPassagensAereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\obj\Debug\net7.0\projetoPassagensAereas.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\obj\Debug\net7.0\projetoPassagensAereas.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\obj\Debug\net7.0\projetoPassagensAereas.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\obj\Debug\net7.0\projetoPassagensAereas.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\obj\Debug\net7.0\refint\projetoPassagensAereas.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\obj\Debug\net7.0\projetoPassagensAereas.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\obj\Debug\net7.0\projetoPassagensAereas.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\projetoPassagensAereas\obj\Debug\net7.0\ref\projetoPassagensAereas.dll

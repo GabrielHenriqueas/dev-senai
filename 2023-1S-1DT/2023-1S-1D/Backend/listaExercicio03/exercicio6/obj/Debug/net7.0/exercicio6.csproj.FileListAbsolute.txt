@@ -1,0 +1,15 @@
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\bin\Debug\net7.0\exercicio6.exe
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\bin\Debug\net7.0\exercicio6.deps.json
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\bin\Debug\net7.0\exercicio6.runtimeconfig.json
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\bin\Debug\net7.0\exercicio6.dll
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\bin\Debug\net7.0\exercicio6.pdb
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\obj\Debug\net7.0\exercicio6.csproj.AssemblyReference.cache
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\obj\Debug\net7.0\exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\obj\Debug\net7.0\exercicio6.AssemblyInfoInputs.cache
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\obj\Debug\net7.0\exercicio6.AssemblyInfo.cs
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\obj\Debug\net7.0\exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\obj\Debug\net7.0\exercicio6.dll
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\obj\Debug\net7.0\refint\exercicio6.dll
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\obj\Debug\net7.0\exercicio6.pdb
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\obj\Debug\net7.0\exercicio6.genruntimeconfig.cache
+C:\Users\Gabriel Silva\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\exercicio6\obj\Debug\net7.0\ref\exercicio6.dll

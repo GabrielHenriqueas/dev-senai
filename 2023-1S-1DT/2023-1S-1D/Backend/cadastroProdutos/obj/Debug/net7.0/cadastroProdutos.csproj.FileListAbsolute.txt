@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\bin\Debug\net7.0\cadastroProdutos.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\bin\Debug\net7.0\cadastroProdutos.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\bin\Debug\net7.0\cadastroProdutos.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\bin\Debug\net7.0\cadastroProdutos.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\bin\Debug\net7.0\cadastroProdutos.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\obj\Debug\net7.0\cadastroProdutos.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\obj\Debug\net7.0\cadastroProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\obj\Debug\net7.0\cadastroProdutos.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\obj\Debug\net7.0\cadastroProdutos.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\obj\Debug\net7.0\cadastroProdutos.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\obj\Debug\net7.0\cadastroProdutos.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\obj\Debug\net7.0\refint\cadastroProdutos.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\obj\Debug\net7.0\cadastroProdutos.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\obj\Debug\net7.0\cadastroProdutos.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\cadastroProdutos\obj\Debug\net7.0\ref\cadastroProdutos.dll

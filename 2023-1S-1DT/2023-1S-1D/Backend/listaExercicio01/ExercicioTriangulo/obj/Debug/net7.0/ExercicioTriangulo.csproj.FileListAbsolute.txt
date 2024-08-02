@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\bin\Debug\net7.0\ExercicioTriangulo.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\bin\Debug\net7.0\ExercicioTriangulo.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\bin\Debug\net7.0\ExercicioTriangulo.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\bin\Debug\net7.0\ExercicioTriangulo.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\bin\Debug\net7.0\ExercicioTriangulo.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\obj\Debug\net7.0\refint\ExercicioTriangulo.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioTriangulo\obj\Debug\net7.0\ref\ExercicioTriangulo.dll

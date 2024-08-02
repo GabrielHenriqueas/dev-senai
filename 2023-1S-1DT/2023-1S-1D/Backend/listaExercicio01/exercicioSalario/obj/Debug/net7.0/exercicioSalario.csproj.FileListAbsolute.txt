@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\bin\Debug\net7.0\exercicioSalario.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\bin\Debug\net7.0\exercicioSalario.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\bin\Debug\net7.0\exercicioSalario.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\bin\Debug\net7.0\exercicioSalario.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\bin\Debug\net7.0\exercicioSalario.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\obj\Debug\net7.0\exercicioSalario.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\obj\Debug\net7.0\exercicioSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\obj\Debug\net7.0\exercicioSalario.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\obj\Debug\net7.0\exercicioSalario.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\obj\Debug\net7.0\exercicioSalario.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\obj\Debug\net7.0\exercicioSalario.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\obj\Debug\net7.0\refint\exercicioSalario.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\obj\Debug\net7.0\exercicioSalario.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\obj\Debug\net7.0\exercicioSalario.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioSalario\obj\Debug\net7.0\ref\exercicioSalario.dll

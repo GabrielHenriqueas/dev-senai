@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\bin\Debug\net7.0\refrigeranteSwitchCase.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\bin\Debug\net7.0\refrigeranteSwitchCase.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\bin\Debug\net7.0\refrigeranteSwitchCase.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\bin\Debug\net7.0\refrigeranteSwitchCase.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\bin\Debug\net7.0\refrigeranteSwitchCase.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\obj\Debug\net7.0\refrigeranteSwitchCase.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\obj\Debug\net7.0\refrigeranteSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\obj\Debug\net7.0\refrigeranteSwitchCase.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\obj\Debug\net7.0\refrigeranteSwitchCase.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\obj\Debug\net7.0\refrigeranteSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\obj\Debug\net7.0\refrigeranteSwitchCase.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\obj\Debug\net7.0\refint\refrigeranteSwitchCase.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\obj\Debug\net7.0\refrigeranteSwitchCase.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\obj\Debug\net7.0\refrigeranteSwitchCase.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\refrigeranteSwitchCase\obj\Debug\net7.0\ref\refrigeranteSwitchCase.dll

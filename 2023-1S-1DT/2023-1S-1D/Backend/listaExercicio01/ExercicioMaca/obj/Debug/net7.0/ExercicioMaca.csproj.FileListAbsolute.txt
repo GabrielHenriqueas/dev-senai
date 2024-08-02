@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\bin\Debug\net7.0\ExercicioMaca.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\bin\Debug\net7.0\ExercicioMaca.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\bin\Debug\net7.0\ExercicioMaca.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\bin\Debug\net7.0\ExercicioMaca.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\bin\Debug\net7.0\ExercicioMaca.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\obj\Debug\net7.0\ExercicioMaca.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\obj\Debug\net7.0\ExercicioMaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\obj\Debug\net7.0\ExercicioMaca.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\obj\Debug\net7.0\ExercicioMaca.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\obj\Debug\net7.0\ExercicioMaca.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\obj\Debug\net7.0\ExercicioMaca.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\obj\Debug\net7.0\refint\ExercicioMaca.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\obj\Debug\net7.0\ExercicioMaca.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\obj\Debug\net7.0\ExercicioMaca.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ExercicioMaca\obj\Debug\net7.0\ref\ExercicioMaca.dll

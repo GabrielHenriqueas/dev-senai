@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\bin\Debug\net7.0\listaExercicio04.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\bin\Debug\net7.0\listaExercicio04.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\bin\Debug\net7.0\listaExercicio04.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\bin\Debug\net7.0\listaExercicio04.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\bin\Debug\net7.0\listaExercicio04.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\obj\Debug\net7.0\listaExercicio04.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\obj\Debug\net7.0\listaExercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\obj\Debug\net7.0\listaExercicio04.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\obj\Debug\net7.0\listaExercicio04.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\obj\Debug\net7.0\listaExercicio04.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\obj\Debug\net7.0\listaExercicio04.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\obj\Debug\net7.0\refint\listaExercicio04.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\obj\Debug\net7.0\listaExercicio04.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\obj\Debug\net7.0\listaExercicio04.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExercicio04\obj\Debug\net7.0\ref\listaExercicio04.dll

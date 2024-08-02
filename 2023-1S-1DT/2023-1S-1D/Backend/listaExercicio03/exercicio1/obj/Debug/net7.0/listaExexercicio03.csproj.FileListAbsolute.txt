@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\bin\Debug\net7.0\listaExexercicio03.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\bin\Debug\net7.0\listaExexercicio03.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\bin\Debug\net7.0\listaExexercicio03.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\bin\Debug\net7.0\listaExexercicio03.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\bin\Debug\net7.0\listaExexercicio03.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\obj\Debug\net7.0\listaExexercicio03.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\obj\Debug\net7.0\listaExexercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\obj\Debug\net7.0\listaExexercicio03.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\obj\Debug\net7.0\listaExexercicio03.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\obj\Debug\net7.0\listaExexercicio03.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\obj\Debug\net7.0\listaExexercicio03.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\obj\Debug\net7.0\refint\listaExexercicio03.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\obj\Debug\net7.0\listaExexercicio03.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\obj\Debug\net7.0\listaExexercicio03.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\listaExexercicio03\obj\Debug\net7.0\ref\listaExexercicio03.dll

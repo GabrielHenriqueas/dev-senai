@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\bin\Debug\net7.0\ProjetoAlunos.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\bin\Debug\net7.0\ProjetoAlunos.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\bin\Debug\net7.0\ProjetoAlunos.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\bin\Debug\net7.0\ProjetoAlunos.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\bin\Debug\net7.0\ProjetoAlunos.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\obj\Debug\net7.0\ProjetoAlunos.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\obj\Debug\net7.0\ProjetoAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\obj\Debug\net7.0\ProjetoAlunos.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\obj\Debug\net7.0\ProjetoAlunos.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\obj\Debug\net7.0\ProjetoAlunos.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\obj\Debug\net7.0\ProjetoAlunos.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\obj\Debug\net7.0\refint\ProjetoAlunos.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\obj\Debug\net7.0\ProjetoAlunos.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\obj\Debug\net7.0\ProjetoAlunos.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\ProjetoAlunos\obj\Debug\net7.0\ref\ProjetoAlunos.dll

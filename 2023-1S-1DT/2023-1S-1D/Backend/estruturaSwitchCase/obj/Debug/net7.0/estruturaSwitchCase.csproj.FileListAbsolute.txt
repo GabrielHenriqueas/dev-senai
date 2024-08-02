@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\bin\Debug\net7.0\estruturaSwitchCase.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\bin\Debug\net7.0\estruturaSwitchCase.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\bin\Debug\net7.0\estruturaSwitchCase.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\bin\Debug\net7.0\estruturaSwitchCase.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\bin\Debug\net7.0\estruturaSwitchCase.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\obj\Debug\net7.0\estruturaSwitchCase.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\obj\Debug\net7.0\estruturaSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\obj\Debug\net7.0\estruturaSwitchCase.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\obj\Debug\net7.0\estruturaSwitchCase.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\obj\Debug\net7.0\estruturaSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\obj\Debug\net7.0\estruturaSwitchCase.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\obj\Debug\net7.0\refint\estruturaSwitchCase.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\obj\Debug\net7.0\estruturaSwitchCase.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\obj\Debug\net7.0\estruturaSwitchCase.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\estruturaSwitchCase\obj\Debug\net7.0\ref\estruturaSwitchCase.dll

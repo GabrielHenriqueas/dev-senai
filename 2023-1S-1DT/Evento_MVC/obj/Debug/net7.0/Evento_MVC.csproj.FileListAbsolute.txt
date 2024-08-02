@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\Evento_MVC\bin\Debug\net7.0\Evento_MVC.exe
+C:\Users\42351028856\Desktop\Evento_MVC\bin\Debug\net7.0\Evento_MVC.deps.json
+C:\Users\42351028856\Desktop\Evento_MVC\bin\Debug\net7.0\Evento_MVC.runtimeconfig.json
+C:\Users\42351028856\Desktop\Evento_MVC\bin\Debug\net7.0\Evento_MVC.dll
+C:\Users\42351028856\Desktop\Evento_MVC\bin\Debug\net7.0\Evento_MVC.pdb
+C:\Users\42351028856\Desktop\Evento_MVC\obj\Debug\net7.0\Evento_MVC.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\Evento_MVC\obj\Debug\net7.0\Evento_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\Evento_MVC\obj\Debug\net7.0\Evento_MVC.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\Evento_MVC\obj\Debug\net7.0\Evento_MVC.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\Evento_MVC\obj\Debug\net7.0\Evento_MVC.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\Evento_MVC\obj\Debug\net7.0\Evento_MVC.dll
+C:\Users\42351028856\Desktop\Evento_MVC\obj\Debug\net7.0\refint\Evento_MVC.dll
+C:\Users\42351028856\Desktop\Evento_MVC\obj\Debug\net7.0\Evento_MVC.pdb
+C:\Users\42351028856\Desktop\Evento_MVC\obj\Debug\net7.0\Evento_MVC.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\Evento_MVC\obj\Debug\net7.0\ref\Evento_MVC.dll

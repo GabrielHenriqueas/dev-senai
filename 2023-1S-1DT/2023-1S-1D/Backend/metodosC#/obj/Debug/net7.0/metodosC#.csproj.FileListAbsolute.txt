@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\bin\Debug\net7.0\metodosC#.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\bin\Debug\net7.0\metodosC#.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\bin\Debug\net7.0\metodosC#.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\bin\Debug\net7.0\metodosC#.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\bin\Debug\net7.0\metodosC#.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\obj\Debug\net7.0\metodosC#.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\obj\Debug\net7.0\metodosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\obj\Debug\net7.0\metodosC#.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\obj\Debug\net7.0\metodosC#.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\obj\Debug\net7.0\metodosC#.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\obj\Debug\net7.0\metodosC#.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\obj\Debug\net7.0\refint\metodosC#.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\obj\Debug\net7.0\metodosC#.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\obj\Debug\net7.0\metodosC#.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\metodosC#\obj\Debug\net7.0\ref\metodosC#.dll

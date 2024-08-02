@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\bin\Debug\net7.0\exercicioMedia.exe
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\bin\Debug\net7.0\exercicioMedia.deps.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\bin\Debug\net7.0\exercicioMedia.runtimeconfig.json
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\bin\Debug\net7.0\exercicioMedia.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\bin\Debug\net7.0\exercicioMedia.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\obj\Debug\net7.0\exercicioMedia.csproj.AssemblyReference.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\obj\Debug\net7.0\exercicioMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\obj\Debug\net7.0\exercicioMedia.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\obj\Debug\net7.0\exercicioMedia.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\obj\Debug\net7.0\exercicioMedia.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\obj\Debug\net7.0\exercicioMedia.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\obj\Debug\net7.0\refint\exercicioMedia.dll
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\obj\Debug\net7.0\exercicioMedia.pdb
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\obj\Debug\net7.0\exercicioMedia.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\senai-desenvolvimento\2023-1S-1D\Backend\exercicioMedia\obj\Debug\net7.0\ref\exercicioMedia.dll
