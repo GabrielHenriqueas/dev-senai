@@ -1,0 +1,27 @@
+INSERT INTO Estudio
+VALUES	
+	(NEWID(), 'Blizzard')
+	,(NEWID(),'Rockstar')
+	,(NEWID(),'Riot')
+
+INSERT INTO TiposUsuario
+VALUES	
+	(NEWID(), 'Administrador'),
+	(NEWID(),'Comum')
+
+INSERT INTO Jogo
+VALUES	
+	(NEWID(), 'Diablo', 'RPG', '2012-05-12', 99.99, '680E6948-E46F-477F-96EC-1ECA38946C8A')
+	,(NEWID(), 'GTA V', 'Mundo Aberto', '2013-09-19', 99.99, 'B3A4216E-97F9-4902-B7CD-AB84DB74CCE6')
+	,(NEWID(), 'Valorant', 'FPS', '2020-06-02', 00.00, '3452E8E3-3D94-4B18-BCCC-780036F4309A')
+
+INSERT INTO Usuario
+VALUES	
+	(NEWID(), 'admin@admin.com', 'Senai@134', '5F94A865-A2AC-4091-A92E-C9E09EB572C9')
+	,(NEWID(), 'comum@comum.com', 'Senai@134', 'E75FE877-8AB2-47FD-B975-8C108F5C1283')
+	,(NEWID(), 'gabriel@email.com', 'Senai@134', '5F94A865-A2AC-4091-A92E-C9E09EB572C9')
+
+SELECT * FROM Estudio
+SELECT * FROM Jogo
+SELECT * FROM Usuario
+SELECT * FROM TiposUsuario
