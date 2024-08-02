@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint2_TestesUnitarios(Backend)\\GerenciamentoLivros\\GerenciamentoLivros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0F3D9B-483A-4AFD-963B-BF6FE2A8BC9A}|GerenciamentoLivros.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint2_testesunitarios(backend)\\gerenciamentolivros\\gerenciamentolivros\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0F3D9B-483A-4AFD-963B-BF6FE2A8BC9A}|GerenciamentoLivros.csproj|solutionrelative:livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0F3D9B-483A-4AFD-963B-BF6FE2A8BC9A}|GerenciamentoLivros.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint2_testesunitarios(backend)\\gerenciamentolivros\\gerenciamentolivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0F3D9B-483A-4AFD-963B-BF6FE2A8BC9A}|GerenciamentoLivros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint2_TestesUnitarios(Backend)\\GerenciamentoLivros\\GerenciamentoLivros\\Livro.cs",
+              "RelativeDocumentMoniker": "Livro.cs",
+              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint2_TestesUnitarios(Backend)\\GerenciamentoLivros\\GerenciamentoLivros\\Livro.cs",
+              "RelativeToolTip": "Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:57:28.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint2_TestesUnitarios(Backend)\\GerenciamentoLivros\\GerenciamentoLivros\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint2_TestesUnitarios(Backend)\\GerenciamentoLivros\\GerenciamentoLivros\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:49:34.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+Relatório de Testes Unitários
+Projeto: Nome do Projeto
+Data: DD/MM/YYYY
+Responsável: Nome do Responsável
+
+- Sumário
+
+Introdução
+Objetivos dos Testes
+Ambiente de Testes
+Metodologia de Testes
+Casos de Teste
+Resultados dos Testes
+Conclusão
+Anexos
+
+- Introdução
+
+Descrição breve sobre o objetivo do relatório e o contexto do projeto.
+
+
+- Objetivos dos Testes
+
+Garantir que as funcionalidades principais do projeto estejam funcionando corretamente.
+Verificar a robustez e a confiabilidade do código.
+Identificar e corrigir possíveis bugs.
+
+
+- Ambiente de Testes
+
+Sistema Operacional: [Detalhes do SO]
+Versão do .NET Core/Framework: [Versão]
+Ferramenta de Teste: [NUnit, MSTest, xUnit, etc.]
+Outros Detalhes Relevantes: [Qualquer outra informação relevante sobre o ambiente]
+
+
+- Metodologia de Testes
+
+Descrição da abordagem adotada para a realização dos testes, incluindo as ferramentas utilizadas e a estratégia de testes.
+
+
+ID	Descrição do Caso de Teste	      Entrada	              Saída Esperada	               Saída Real	          Status
+1	Testar criação de um novo pedido   Dados do pedido	Pedido criado com sucesso	Pedido criado com sucesso	 Aprovado
+
+
+- Resultados dos Testes
+
+Total de Casos de Teste: [Número total]
+Casos Aprovados: [Número de casos aprovados]
+Casos Reprovados: [Número de casos reprovados]
+Percentual de Sucesso: [Percentual]
+
+
+- Conclusão
+Resumo dos resultados dos testes e próximas ações recomendadas, como correção de bugs e reexecução dos testes.
+
+- Anexos
+Qualquer documentação adicional, logs de testes, screenshots, etc.
+
+
+
+
+
