@@ -1,0 +1,37 @@
+.button {
+    display: block;
+    width: 300px;
+    height: 40px;
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 5px;
+    border: none;
+}
+
+.button--big {
+    width: 100%;
+}
+
+.button:hover {
+    opacity: .8;
+}
+
+.button--warning {
+    background-color: rgb(236, 210, 18);
+    color: white;
+    border: none;
+}
+
+.button--danger {
+    color: red;
+    border: none;
+}
+
+.button--success {
+    background-color: rgb(16, 109, 80);
+    border: none;
+}

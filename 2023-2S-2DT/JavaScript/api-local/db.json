@@ -1,0 +1,45 @@
+{
+  "imc": [
+    {
+      "id": 1,
+      "nome": "Gabriel",
+      "altura": "1.74",
+      "peso": 97,
+      "imc": 45.9,
+      "situacao": "Acima do peso"
+    },
+    {
+      "id": 2,
+      "nome": "Heithor",
+      "altura": "1.74",
+      "peso": 97,
+      "imc": 45.9,
+      "situacao": "Acima do peso"
+    },
+    {
+      "id": 3,
+      "nome": "Bosta",
+      "altura": "1.74",
+      "peso": 97,
+      "imc": 45.9,
+      "situacao": "Acima do peso"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

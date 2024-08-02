@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introdução JS</title>
+</head>
+
+<body>
+    <h1>Introdução ao JavaScript</h1>
+    <form action="">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" placeholder="Digite seu nome">
+        <br>
+        <br>
+        <label for="sobrenome">Sobrenome:</label>
+        <input type="text" id="sobrenome" placeholder="Digite seu sobrenome">
+
+        <br>
+        <br>
+        <button onclick="alert('Boa Tarde 👉👌')">Boa Tarde</button>
+
+        <br>
+        <br>
+        <button onclick="saudar()">Saudar</button>
+    </form>
+
+
+
+    <script>
+        function saudar() {
+            event.preventDefault();
+            //separar o nome completo em duas variáveis
+            let nome = document.getElementById("nome").value;
+            let sobrenome = document.getElementById("sobrenome").value;
+            
+            //interpolar o valor do nome completo
+            alert(`Boa Tarde, ${nome} ${sobrenome}`);
+            //console.log(nome.value, sobrenome.value)
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+{
+  "contatos": [
+    {
+      "cep": "03959020",
+      "endereco": "Rua Coronel Ernesto Duprat",
+      "bairro": "Cidade São Mateus",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "nome": "Gabriel",
+      "telefone": "1195959595959",
+      "numero": "100",
+      "complemento": "Casa",
+      "id": 1
+    }
+  ]
+}

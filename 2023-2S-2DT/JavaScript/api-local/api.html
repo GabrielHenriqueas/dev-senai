@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form>
+        <label for="cep">CEP</label>
+        <input type="number" placeholder="digite o cep" id="cep" onblur="chamarApi()" autocomplete="off" />
+        <span id="not-found"></span>
+        <br /><br />
+
+        <label for="endereco">Endereço</label>
+        <input type="text" placeholder=" ... " id="endereco" />
+        <br /><br />
+
+        <label for="bairro">Bairro</label>
+        <input type="text" placeholder=" ... " id="bairro" />
+        <br /><br />
+
+        <label for="cidade">Cidade</label>
+        <input type="text" placeholder=" ... " id="cidade" />
+        <br /><br />
+
+        <label for="estado">Estado</label>
+        <input type="text" placeholder=" ... " id="estado" />
+        <br /><br />
+    </form>
+
+    <script>
+        // const retorno = fetch("https://viacep.com.br/ws/09280340/json/")
+        // .then((retorno) => {
+        //     //console.log(retorno);
+        //     console.log("Deu bom na API!");
+        // })//resolvida
+        // .catch(() => {
+        //     console.log("Deu ruim na API!");
+        // })//rejeitada
+
+        async function chamarApi() {
+            const cep = document.getElementById("cep").value;
+            const url = `https://viacep.com.br/ws/${cep}/json/`
+
+            try {//resolvida ou fullfield
+                const promise = await fetch(url)
+                const endereco = await promise.json();
+                console.log(endereco);
+
+                //exibir dados no formulário
+
+                exibirEndereco(endereco);
+                document.getElementById("not-found").innerText = ""
+
+            } catch (error) {//rejeitada
+                //return console.log("Deu ruim na api!");
+
+                //informa o usuário
+                limparEndereco();
+                document.getElementById("not-found").innerText = "CEP Inválido"
+            }
+        }
+
+        function exibirEndereco(endereco) {
+            document.getElementById("endereco").value = endereco.logradouro;
+            document.getElementById("bairro").value = endereco.bairro;
+            document.getElementById("cidade").value = endereco.localidade;
+            document.getElementById("estado").value = endereco.uf;
+        }
+
+        function limparEndereco() {
+            document.getElementById("endereco").value = placeholder = " ... ";
+            document.getElementById("bairro").value = placeholder = " ... ";
+            document.getElementById("cidade").value = placeholder = " ... ";
+            document.getElementById("estado").value = placeholder = " ... ";
+        }
+    </script>
+</body>
+
+</html>

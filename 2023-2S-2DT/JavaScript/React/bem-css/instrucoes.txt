@@ -1,0 +1,3 @@
+instalar o nodejs versão LTS
+instalar o create-react-app
+	npm install create-react-app
