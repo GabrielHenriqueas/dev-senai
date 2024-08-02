@@ -1,0 +1,14 @@
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\bin\Debug\net8.0\ValidarEmail.exe
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\bin\Debug\net8.0\ValidarEmail.deps.json
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\bin\Debug\net8.0\ValidarEmail.runtimeconfig.json
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\bin\Debug\net8.0\ValidarEmail.dll
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\bin\Debug\net8.0\ValidarEmail.pdb
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\obj\Debug\net8.0\ValidarEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\obj\Debug\net8.0\ValidarEmail.AssemblyInfoInputs.cache
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\obj\Debug\net8.0\ValidarEmail.AssemblyInfo.cs
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\obj\Debug\net8.0\ValidarEmail.csproj.CoreCompileInputs.cache
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\obj\Debug\net8.0\ValidarEmail.dll
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\obj\Debug\net8.0\refint\ValidarEmail.dll
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\obj\Debug\net8.0\ValidarEmail.pdb
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\obj\Debug\net8.0\ValidarEmail.genruntimeconfig.cache
+C:\Users\42591939888\Desktop\ValidarEmailTestes\ValidarEmail\obj\Debug\net8.0\ref\ValidarEmail.dll
