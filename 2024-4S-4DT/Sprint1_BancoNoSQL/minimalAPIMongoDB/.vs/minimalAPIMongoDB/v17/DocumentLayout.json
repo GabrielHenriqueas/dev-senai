@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint1_banconosql\\minimalapimongodb\\minimalapimongodb\\controllers\\ordercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\controllers\\ordercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint1_banconosql\\minimalapimongodb\\minimalapimongodb\\domains\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\domains\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint1_banconosql\\minimalapimongodb\\minimalapimongodb\\controllers\\productcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\controllers\\productcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint1_banconosql\\minimalapimongodb\\minimalapimongodb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint1_banconosql\\minimalapimongodb\\minimalapimongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint1_banconosql\\minimalapimongodb\\minimalapimongodb\\controllers\\ordercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\controllers\\ordercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint1_banconosql\\minimalapimongodb\\minimalapimongodb\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\controllers\\clientcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint1_banconosql\\minimalapimongodb\\minimalapimongodb\\domains\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\domains\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint1_banconosql\\minimalapimongodb\\minimalapimongodb\\domains\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\domains\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint1_banconosql\\minimalapimongodb\\minimalapimongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6EB30B4D-5073-4CCA-80D7-C8C659A192AC}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,9 +53,22 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 189,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 131,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "minimalAPIMongoDB\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "minimalAPIMongoDB\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T17:29:25.175Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -60,14 +77,14 @@
               "RelativeDocumentMoniker": "minimalAPIMongoDB\\Controllers\\ProductControllers.cs",
               "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Controllers\\ProductControllers.cs",
               "RelativeToolTip": "minimalAPIMongoDB\\Controllers\\ProductControllers.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAkwEIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T18:21:53.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\Product.cs",
               "RelativeDocumentMoniker": "minimalAPIMongoDB\\Domains\\Product.cs",
@@ -80,24 +97,12 @@
           ]
         },
         {
-          "DockedWidth": 211,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 269,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "OrderViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\ViewModels\\OrderViewModel.cs",
-              "RelativeDocumentMoniker": "minimalAPIMongoDB\\ViewModels\\OrderViewModel.cs",
-              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\ViewModels\\OrderViewModel.cs",
-              "RelativeToolTip": "minimalAPIMongoDB\\ViewModels\\OrderViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T18:12:13.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "OrderControllers.cs",
               "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Controllers\\OrderControllers.cs",
               "RelativeDocumentMoniker": "minimalAPIMongoDB\\Controllers\\OrderControllers.cs",
@@ -110,7 +115,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\appsettings.json",
+              "RelativeDocumentMoniker": "minimalAPIMongoDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\appsettings.json",
+              "RelativeToolTip": "minimalAPIMongoDB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T19:50:30.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\Client.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongoDB\\Domains\\Client.cs",
+              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\Client.cs",
+              "RelativeToolTip": "minimalAPIMongoDB\\Domains\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:27:32.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\Order.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongoDB\\Domains\\Order.cs",
+              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\Order.cs",
+              "RelativeToolTip": "minimalAPIMongoDB\\Domains\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:52:43.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ClientControllers.cs",
               "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Controllers\\ClientControllers.cs",
               "RelativeDocumentMoniker": "minimalAPIMongoDB\\Controllers\\ClientControllers.cs",
@@ -123,30 +166,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\Client.cs",
-              "RelativeDocumentMoniker": "minimalAPIMongoDB\\Domains\\Client.cs",
-              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\Client.cs",
-              "RelativeToolTip": "minimalAPIMongoDB\\Domains\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongoDB\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "minimalAPIMongoDB\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T18:27:32.911Z"
+              "WhenOpened": "2024-07-30T18:12:13.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\Order.cs",
-              "RelativeDocumentMoniker": "minimalAPIMongoDB\\Domains\\Order.cs",
-              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\Order.cs",
-              "RelativeToolTip": "minimalAPIMongoDB\\Domains\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T18:52:43.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "UserControllers.cs",
               "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Controllers\\UserControllers.cs",
               "RelativeDocumentMoniker": "minimalAPIMongoDB\\Controllers\\UserControllers.cs",
@@ -158,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\User.cs",
               "RelativeDocumentMoniker": "minimalAPIMongoDB\\Domains\\User.cs",
@@ -167,18 +198,6 @@
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T18:06:46.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\appsettings.json",
-              "RelativeDocumentMoniker": "minimalAPIMongoDB\\appsettings.json",
-              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint1_BancoNoSQL\\minimalAPIMongoDB\\minimalAPIMongoDB\\appsettings.json",
-              "RelativeToolTip": "minimalAPIMongoDB\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-29T19:50:30.263Z"
             }
           ]
         }

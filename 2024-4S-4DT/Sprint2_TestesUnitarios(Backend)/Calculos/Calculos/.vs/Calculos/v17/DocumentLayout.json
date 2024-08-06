@@ -6,6 +6,9 @@
       "AbsoluteMoniker": "D:0:0:{DE03C95D-9D4D-418D-957C-8771A990154E}|..\\Calculos.Test\\Calculos.Test.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint2_testesunitarios(backend)\\calculos\\calculos.test\\calculounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DE03C95D-9D4D-418D-957C-8771A990154E}|..\\Calculos.Test\\Calculos.Test.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint2_testesunitarios(backend)\\calculos\\calculos.test\\calculos.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6397AA7-5D3E-4A08-81BC-6307A818A4B3}|Calculos.csproj|c:\\users\\42351028856\\desktop\\dev-senai\\2024-4s-4dt\\sprint2_testesunitarios(backend)\\calculos\\calculos\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6397AA7-5D3E-4A08-81BC-6307A818A4B3}|Calculos.csproj|solutionrelative:calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,8 +24,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 189,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculos.Test",
+              "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint2_TestesUnitarios(Backend)\\Calculos\\Calculos.Test\\Calculos.Test.csproj",
+              "RelativeDocumentMoniker": "..\\Calculos.Test\\Calculos.Test.csproj",
+              "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint2_TestesUnitarios(Backend)\\Calculos\\Calculos.Test\\Calculos.Test.csproj",
+              "RelativeToolTip": "..\\Calculos.Test\\Calculos.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T17:48:05.123Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -31,27 +47,27 @@
               "RelativeDocumentMoniker": "..\\Calculos.Test\\CalculoUnitTest.cs",
               "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint2_TestesUnitarios(Backend)\\Calculos\\Calculos.Test\\CalculoUnitTest.cs",
               "RelativeToolTip": "..\\Calculos.Test\\CalculoUnitTest.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T19:35:03.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Calculo.cs",
               "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint2_TestesUnitarios(Backend)\\Calculos\\Calculos\\Calculo.cs",
               "RelativeDocumentMoniker": "Calculo.cs",
               "ToolTip": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint2_TestesUnitarios(Backend)\\Calculos\\Calculos\\Calculo.cs",
               "RelativeToolTip": "Calculo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T19:22:07.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2024-4S-4DT\\Sprint2_TestesUnitarios(Backend)\\Calculos\\Calculos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -59,7 +75,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T19:20:23.033Z"
+              "WhenOpened": "2024-07-31T19:20:23.033Z",
+              "EditorCaption": ""
             }
           ]
         }

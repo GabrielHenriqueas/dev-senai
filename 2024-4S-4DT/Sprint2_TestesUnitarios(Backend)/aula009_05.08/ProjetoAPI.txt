@@ -1,0 +1,29 @@
+05/08 - 2º Feira
+
+Criar projeto de API
+
+- Instalar dependências
+
+- Domains
+	- Products
+		-Guid IdProduct
+		-string Name
+		-decimal Price
+
+- Interface
+	- IProductsRepository
+		- Get
+		- GetById
+		- Post
+		- Put
+		- Delete
+
+- Criar a migration e o banco de dados
+obs: Usar o conceito de Code First - Sql Server
+
+- Criar o repositório e implementar a interface
+- Criar os controllers
+- Testar as rotas no Swagger
+
+... 
+
