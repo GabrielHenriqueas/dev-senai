@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mAwRlqL9OcGKS/GtiYKCaeRtIPTjjc23y79wwMES23AqXS47EUxam/NeJia1dsBdD9cua+eoJHMvM3samosUeA==",
+  "dgSpecHash": "wp8Cd0Nnlbnkv3Qi6tYiOGEAdaOWiEefY4FunZPGFferyDJXH+jdEmw4mkA1wwmRgOlfebSOdn4oMIZ987QVhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\42351028856\\Desktop\\senai-desenvolvimento\\2023-1S-1D\\Backend\\array\\array.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2023-1S-1DT\\2023-1S-1D\\Backend\\array\\array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\42351028856\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\42351028856\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\42351028856\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\42351028856\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

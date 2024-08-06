@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\42351028856\\Desktop\\senai-desenvolvimento\\2023-1S-1D\\Backend\\array\\array.csproj": {}
+    "C:\\Users\\42351028856\\Desktop\\dev-senai\\2023-1S-1DT\\2023-1S-1D\\Backend\\array\\array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\42351028856\\Desktop\\senai-desenvolvimento\\2023-1S-1D\\Backend\\array\\array.csproj": {
+    "C:\\Users\\42351028856\\Desktop\\dev-senai\\2023-1S-1DT\\2023-1S-1D\\Backend\\array\\array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\42351028856\\Desktop\\senai-desenvolvimento\\2023-1S-1D\\Backend\\array\\array.csproj",
+        "projectUniqueName": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2023-1S-1DT\\2023-1S-1D\\Backend\\array\\array.csproj",
         "projectName": "array",
-        "projectPath": "C:\\Users\\42351028856\\Desktop\\senai-desenvolvimento\\2023-1S-1D\\Backend\\array\\array.csproj",
+        "projectPath": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2023-1S-1DT\\2023-1S-1D\\Backend\\array\\array.csproj",
         "packagesPath": "C:\\Users\\42351028856\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\42351028856\\Desktop\\senai-desenvolvimento\\2023-1S-1D\\Backend\\array\\obj\\",
+        "outputPath": "C:\\Users\\42351028856\\Desktop\\dev-senai\\2023-1S-1DT\\2023-1S-1D\\Backend\\array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\42351028856\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,12 +55,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

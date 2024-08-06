@@ -37,5 +37,34 @@ namespace ProdutosApiTestUnit
             //Assert
             Assert.Equal(3, result.Count);
         }
+
+        [Fact]
+
+        public void Post()
+        {
+            //Arrange
+
+            //Criar o objeto
+            Products product = new Products { IdProduct = Guid.NewGuid(), Name = "Rolex", Price = 99 };
+
+            
+
+            //Criar a lista
+                List<Products> productList = new List<Products>();
+
+            var mockRepository = new Mock<IProductsRepository>();
+
+            mockRepository.Setup(x => x.Post(product)).Callback<Products>(x => productList.Add(product));
+
+            //Act
+            mockRepository.Object.Post(product);
+
+
+
+            //Assert
+            Assert.Equal(Product, productList);
+
+
+        }
     }
 }
