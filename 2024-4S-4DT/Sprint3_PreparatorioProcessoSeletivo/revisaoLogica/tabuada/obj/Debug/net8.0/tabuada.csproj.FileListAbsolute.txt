@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\bin\Debug\net8.0\tabuada.exe
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\bin\Debug\net8.0\tabuada.deps.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\bin\Debug\net8.0\tabuada.runtimeconfig.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\bin\Debug\net8.0\tabuada.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\bin\Debug\net8.0\tabuada.pdb
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\obj\Debug\net8.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\obj\Debug\net8.0\tabuada.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\obj\Debug\net8.0\tabuada.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\obj\Debug\net8.0\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\obj\Debug\net8.0\tabuada.sourcelink.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\obj\Debug\net8.0\tabuada.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\obj\Debug\net8.0\refint\tabuada.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\obj\Debug\net8.0\tabuada.pdb
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\obj\Debug\net8.0\tabuada.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\tabuada\obj\Debug\net8.0\ref\tabuada.dll

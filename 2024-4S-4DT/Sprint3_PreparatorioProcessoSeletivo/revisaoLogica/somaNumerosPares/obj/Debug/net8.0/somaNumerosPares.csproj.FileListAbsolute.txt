@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\bin\Debug\net8.0\somaNumerosPares.exe
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\bin\Debug\net8.0\somaNumerosPares.deps.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\bin\Debug\net8.0\somaNumerosPares.runtimeconfig.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\bin\Debug\net8.0\somaNumerosPares.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\bin\Debug\net8.0\somaNumerosPares.pdb
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.sourcelink.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\obj\Debug\net8.0\refint\somaNumerosPares.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.pdb
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\somaNumerosPares\obj\Debug\net8.0\ref\somaNumerosPares.dll

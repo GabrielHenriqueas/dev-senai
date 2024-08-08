@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\bin\Debug\net8.0\mediasAprovacao.exe
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\bin\Debug\net8.0\mediasAprovacao.deps.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\bin\Debug\net8.0\mediasAprovacao.runtimeconfig.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\bin\Debug\net8.0\mediasAprovacao.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\bin\Debug\net8.0\mediasAprovacao.pdb
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\obj\Debug\net8.0\mediasAprovacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\obj\Debug\net8.0\mediasAprovacao.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\obj\Debug\net8.0\mediasAprovacao.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\obj\Debug\net8.0\mediasAprovacao.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\obj\Debug\net8.0\mediasAprovacao.sourcelink.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\obj\Debug\net8.0\mediasAprovacao.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\obj\Debug\net8.0\refint\mediasAprovacao.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\obj\Debug\net8.0\mediasAprovacao.pdb
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\obj\Debug\net8.0\mediasAprovacao.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\revisaoLogica\mediasAprovacao\obj\Debug\net8.0\ref\mediasAprovacao.dll
