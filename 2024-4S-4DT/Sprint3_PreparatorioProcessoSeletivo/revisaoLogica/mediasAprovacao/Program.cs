@@ -14,3 +14,15 @@ string[] disciplinas = ["Partugues, Matematica, Quimica"];
 string[] alunos = ["Marta", "Lucas", "João"];
 
 float[] notas = [10, 7, 8];
+
+foreach (string aluno in alunos)
+{
+    Console.WriteLine(aluno);
+    
+    foreach (float nota in notas)
+    {
+        Console.WriteLine(nota);
+        
+    }
+    
+}

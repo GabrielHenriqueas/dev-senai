@@ -1,0 +1,15 @@
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\bin\Debug\net8.0\exercicio002.exe
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\bin\Debug\net8.0\exercicio002.deps.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\bin\Debug\net8.0\exercicio002.runtimeconfig.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\bin\Debug\net8.0\exercicio002.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\bin\Debug\net8.0\exercicio002.pdb
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\obj\Debug\net8.0\exercicio002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\obj\Debug\net8.0\exercicio002.AssemblyInfoInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\obj\Debug\net8.0\exercicio002.AssemblyInfo.cs
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\obj\Debug\net8.0\exercicio002.csproj.CoreCompileInputs.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\obj\Debug\net8.0\exercicio002.sourcelink.json
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\obj\Debug\net8.0\exercicio002.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\obj\Debug\net8.0\refint\exercicio002.dll
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\obj\Debug\net8.0\exercicio002.pdb
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\obj\Debug\net8.0\exercicio002.genruntimeconfig.cache
+C:\Users\42351028856\Desktop\dev-senai\2024-4S-4DT\Sprint3_PreparatorioProcessoSeletivo\aula012_08.08\exercicios\exercicio002\obj\Debug\net8.0\ref\exercicio002.dll
