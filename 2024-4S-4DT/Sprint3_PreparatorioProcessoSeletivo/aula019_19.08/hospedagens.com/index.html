@@ -7,31 +7,132 @@
     <title>Hospedagens.com</title>
     <link rel="stylesheet" href="./css/style.css">
 </head>
+<script>
+    // mapeamento dos cards
+    document.addEventListener("DOMContentLoaded", function () {
+        const cards = [
+            {
+                img: "./assets/foto1.jpg",
+                title: "Angra dos reis",
+                subtitle:
+                    "Desfrute de um paraíso tropical em nossa pousada! Relaxe em nossas piscinas com vista para o mar.",
+                uf: "RJ",
+            },
+            {
+                img: "./assets/foto1.jpg",
+                title: "Arraial do cabo",
+                subtitle:
+                    "Conecte-se com a natureza em Arraial do Cabo! Nossa pousada está localizada próximo às praias.",
+                uf: "RJ",
+            },
+            {
+                img: "./assets/foto1.jpg",
+                title: "Treze Tílias",
+                subtitle:
+                    "Viva a experiência de um vilarejo europeu no Brasil! Nossa pousada em Treze Tílias é perfeita.",
+                uf: "SC",
+            },
+            {
+                img: "./assets/foto1.jpg",
+                title: "Ipanema",
+                subtitle:
+                    "Explore a rica cultura e história de Ipanema! Nossa pousada é o ponto de partida ideal para conhecer.",
+                uf: "RJ",
+            },
+            {
+                img: "./assets/foto1.jpg",
+                title: "Angra dos reis",
+                subtitle:
+                    "Desfrute de um paraíso tropical em nossa pousada! Relaxe em nossas piscinas com vista para o mar.",
+                uf: "RJ",
+            },
+            {
+                img: "./assets/foto1.jpg",
+                title: "Arraial do cabo",
+                subtitle:
+                    "Conecte-se com a natureza em Arraial do Cabo! Nossa pousada está localizada próximo às praias.",
+                uf: "RJ",
+            },
+            {
+                img: "./assets/foto1.jpg",
+                title: "Treze Tílias",
+                subtitle:
+                    "Viva a experiência de um vilarejo europeu no Brasil! Nossa pousada em Treze Tílias é perfeita.",
+                uf: "SC",
+            },
+            {
+                img: "./assets/foto1.jpg",
+                title: "Ipanema",
+                subtitle:
+                    "Explore a rica cultura e história de Ipanema! Nossa pousada é o ponto de partida ideal para conhecer.",
+                uf: "RJ",
+            },
+        ];
+
+        const container = document.getElementById("cards-container");
+
+        cards.forEach((card) => {
+            const div = document.createElement("div");
+            div.classList.add("card");
+            div.innerHTML = `
+            <div class="card--img" style="background-image: url(${card.img}) ; width: 260px; height: 160px"></div>
+            <div class="card--titles">
+            <h4>${card.title}</h4>
+            <h4>${card.uf}</h4>
+            </div>
+            <p>${card.subtitle}</p>
+          `;
+
+            container.appendChild(div);
+        });
+    });
+</script>
 
 <body>
     <header>
         <img src="./assets/logo-branca.png" alt="Logo Hospedagens.com">
-
         <nav>
             <a href="">Hotéis</a>
             <a href="">Contato</a>
             <a href="">Entrar</a>
-
-            <button>Cadastre-se</button>
+            <button class="button-header">Cadastre-se</button>
         </nav>
     </header>
-
     <main>
         <section class="header">
-            <div class="slogan">
+            <div class="slogan-header">
                 <h1>As melhores hospedagens do Brasil</h1>
                 <p>mais de 500 mil reservas por você! Basta procurar pelo local ideal, e realizar a viagem dos seus sonhos</p>
             </div>
             <img src="./assets/mapa-brasil.png" alt="Mapa do Brasil">
         </section>
+        <div class="search" class="layout-grid">
+            <input style="background: url(./assets/icons/local-icon.svg) no-repeat left" type="text"
+                placeholder="Qual local desejado?">
+            <input style="background: url(./assets/icons/checkin-icon.svg) no-repeat left" type="text"
+                placeholder="Data Check-in">
+            <input style="background: url(./assets/icons/checkout-icon.svg) no-repeat left" type="text"
+                placeholder="Data Check-out">
+            <button class="button-search">Procurar Hotel</button>
+        </div>
+        </section>
 
+        <section class="cards-section">
+            <div class="container">
+                <div id="cards-container"></div>
+            </div>
+        </section>
+
+        <section class="promotion">
+            <div class="slogan-promotion">
+                <h1>Venha conferir os melhores <span class="green">hotéis </span></h1>
+                <h1>com as melhores <span class="blue">promoções </span>do país</h1>
+                <p><span class="green">Não perca tempo </span>e venha conferir o que há de</p>
+                <p><span class="yellow">melhor</span> na hotelaria brasileira</p>
+            </div>
+            <img src="./assets/travel.png" alt="Mapa do Brasil">
+        </section>
     </main>
-
     <Footer>
         <div class="footer-green">
             <h1>Fale com um de nossos acessores</h1>
@@ -40,7 +141,6 @@
         </div>
         <div class="footer-yellow">
             <img src="./assets/logo-preta.png" alt="Logo Hospedagens.com">
-
         </div>
     </Footer>
 </body>
